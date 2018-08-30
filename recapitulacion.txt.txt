@@ -1,0 +1,3 @@
+Tema: Metodologias para la creacion de sitios
+La elaboración de páginas Web comprende las fases de Análisis, Planificación, Contenido, Diseño, Programación, Testeo, Mercadeo y Publicidad
+Todo proyecto debe contar con objetivos definidos, contra los cuales puede medirse la efectividad de las acciones que se desarrollen.
